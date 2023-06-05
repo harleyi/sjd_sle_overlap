@@ -1,0 +1,14 @@
+"","exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"1","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs11085725",0.942278698915758,0.138690234040897,1.08972349059489e-11
+"2","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs2192008",0.925004463565034,0.136568346423045,1.25966285495566e-11
+"3","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs2431697",0.92898137260564,0.135837027179556,7.97809036117194e-12
+"4","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs3117581",0.773263893297613,0.142132226189255,5.31448463885915e-08
+"5","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs4841465",0.947221523117234,0.136184499135043,3.51492445224164e-12
+"6","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs485497",1.02147871201143,0.115039158632644,6.72219305280565e-19
+"7","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs61117627",0.91698443106845,0.127526075460168,6.45241343106154e-13
+"8","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs7119038",1.00080894701335,0.125803863380003,1.7868107593881e-15
+"9","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs7210219",0.972482723800844,0.1331734769472,2.8273107017226e-13
+"10","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs7523907",0.963148271796532,0.132428280282663,3.51641656918882e-13
+"11","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs7732451",0.94599430007159,0.138188743154577,7.61196631498639e-12
+"12","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"rs7768653",0.926268893700639,0.130324399038915,1.18241074489174e-12
+"13","sjd_eur.txt","Systemic lupus erythematosus || id:ebi-a-GCST003156","qvkSJY","ebi-a-GCST003156",14267,"All",0.942740706377888,0.127411684664881,1.37038392620104e-13

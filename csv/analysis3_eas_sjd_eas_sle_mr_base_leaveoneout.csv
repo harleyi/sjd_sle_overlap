@@ -1,0 +1,6 @@
+"","exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"1","sjd_eas_droprs13079920.txt","Systemic lupus erythematosus || id:ebi-a-GCST90011866","v5WGpd","ebi-a-GCST90011866",12653,"rs10168266",0.427685453002227,0.149494798515077,0.00422477854839022
+"2","sjd_eas_droprs13079920.txt","Systemic lupus erythematosus || id:ebi-a-GCST90011866","v5WGpd","ebi-a-GCST90011866",12653,"rs4282438",0.701524043603255,0.193513601204244,0.000288746358198842
+"3","sjd_eas_droprs13079920.txt","Systemic lupus erythematosus || id:ebi-a-GCST90011866","v5WGpd","ebi-a-GCST90011866",12653,"rs4917014",0.517765699247813,0.237033144499373,0.0289358113371581
+"4","sjd_eas_droprs13079920.txt","Systemic lupus erythematosus || id:ebi-a-GCST90011866","v5WGpd","ebi-a-GCST90011866",12653,"rs9271588",0.602149191229254,0.300245075927271,0.0449068849152394
+"5","sjd_eas_droprs13079920.txt","Systemic lupus erythematosus || id:ebi-a-GCST90011866","v5WGpd","ebi-a-GCST90011866",12653,"All",0.553335888021023,0.190209998892018,0.00362495401651746

@@ -1,0 +1,35 @@
+"","exposure","outcome","id.exposure","id.outcome","samplesize","SNP","b","se","p"
+"1","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs10048743",-0.0190383883138911,0.224566443975215,0.932437550077895
+"2","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs10912578",0.163655513246374,0.174592886656404,0.348575986226754
+"3","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs1143679",0.237197191420366,0.107348475479891,0.0271329353171308
+"4","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs12094036",0.098933346321506,0.211565155979836,0.64005214044649
+"5","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs12524498",0.485486637607764,0.210144873727435,0.0208744639740533
+"6","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs13136219",0.225978331316352,0.238596410729956,0.343579986067202
+"7","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs13332649",0.315209827428974,0.142035073448338,0.0264704437080399
+"8","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs143123127",0.117658573118527,0.211062033514608,0.577213401528822
+"9","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs150180633",-0.451186627293774,0.344207563085867,0.189925977193136
+"10","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs17849501",0.0985288495924432,0.128247814237974,0.442327250748492
+"11","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs2431697",0.33969096189008,0.184185996486574,0.0651420186145859
+"12","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs2459611",0.474432307309701,0.340902569203987,0.164014860350836
+"13","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs268124",0.0139537379917351,0.222186443406859,0.949924227102236
+"14","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs34703115",-0.108084247288968,0.184684494616885,0.558388195638103
+"15","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs35000415",0.529443488882878,0.0966336445004738,4.28042867004116e-08
+"16","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs35251378",0.211265813118843,0.193448214422073,0.274786836322257
+"17","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs353608",-0.0794289701067998,0.215746256641443,0.712754527741649
+"18","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs3747093",0.223353813785428,0.165419036148252,0.176942085001948
+"19","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs389884",0.789792064157273,0.0798302986687409,4.44720103808301e-23
+"20","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs4274624",0.39598581884721,0.0857731015553522,3.89952864243712e-06
+"21","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs4388254",-0.00528490946950079,0.1672673847097,0.974794570976795
+"22","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs4916215",0.00224070555336464,0.231688954217904,0.992283635173519
+"23","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs58688157",0.050191804395368,0.222277990893773,0.821351959007176
+"24","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs58721818",0.382345784158657,0.22782576955834,0.0933007144331648
+"25","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs597808",0.204899119487568,0.249816944480338,0.412103786647363
+"26","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs6671847",0.353531035800675,0.202664306440501,0.0810864248388525
+"27","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs6679677",0.338215364131339,0.167027271214247,0.0428765005938361
+"28","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs6889239",0.39548755186722,0.160284117104657,0.0136092250382836
+"29","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs7097397",0.0509848118928782,0.223259807867762,0.819362197557163
+"30","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs73068668",0.044803009745449,0.231005589254904,0.8462168097498
+"31","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs7768653",0.190808351126011,0.196122001410533,0.330599821895582
+"32","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"rs7899626",-0.0268755279121554,0.22707078684964,0.905784408672632
+"33","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"All - Inverse variance weighted",0.310153578320465,0.0460194281731137,1.58798550838231e-11
+"34","sle_eur.txt","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","6zokA3","finn-b-M13_SJOGREN",NA,"All - MR Egger",0.554035347711755,0.0840010253468982,2.67355506723945e-07

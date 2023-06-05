@@ -1,0 +1,5 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","6zokA3","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","sle_eur.txt","MR Egger",32,0.554,0.084,2.674e-07
+"2","6zokA3","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","sle_eur.txt","Weighted median",32,0.2804,0.05026,2.415e-08
+"3","6zokA3","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","sle_eur.txt","Inverse variance weighted",32,0.3102,0.04602,1.588e-11
+"4","6zokA3","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","sle_eur.txt","Weighted mode",32,0.3021,0.09529,0.003419

@@ -1,0 +1,5 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90011866","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","Systemic lupus erythematosus || id:ebi-a-GCST90011866","MR Egger",30,0.4208,0.1702,0.01973
+"2","ebi-a-GCST90011866","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","Systemic lupus erythematosus || id:ebi-a-GCST90011866","Weighted median",30,0.2335,0.05797,5.63e-05
+"3","ebi-a-GCST90011866","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","Systemic lupus erythematosus || id:ebi-a-GCST90011866","Inverse variance weighted",30,0.2892,0.06236,3.518e-06
+"4","ebi-a-GCST90011866","finn-b-M13_SJOGREN","Sicca syndrome [Sj<c2><9a>gren] || id:finn-b-M13_SJOGREN","Systemic lupus erythematosus || id:ebi-a-GCST90011866","Weighted mode",30,0.2294,0.07768,0.006173

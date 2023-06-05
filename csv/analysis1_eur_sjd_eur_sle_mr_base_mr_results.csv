@@ -1,0 +1,5 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","qvkSJY","ebi-a-GCST003156","Systemic lupus erythematosus || id:ebi-a-GCST003156","sjd_eur.txt","MR Egger",12,1.179,0.2713,0.001456
+"2","qvkSJY","ebi-a-GCST003156","Systemic lupus erythematosus || id:ebi-a-GCST003156","sjd_eur.txt","Weighted median",12,0.9079,0.1147,2.445e-15
+"3","qvkSJY","ebi-a-GCST003156","Systemic lupus erythematosus || id:ebi-a-GCST003156","sjd_eur.txt","Inverse variance weighted",12,0.9427,0.1274,1.37e-13
+"4","qvkSJY","ebi-a-GCST003156","Systemic lupus erythematosus || id:ebi-a-GCST003156","sjd_eur.txt","Weighted mode",12,1.149,0.1181,9.731e-07
