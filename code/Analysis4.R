@@ -1,0 +1,7 @@
+library(TwoSampleMR)
+   ao <- available_outcomes()
+   exposure_dat <- extract_instruments(c('ebi-a-GCST90011866'))
+   exposure_dat <- clump_data(exposure_dat)
+   outcome_dat <- extract_outcome_data(exposure_dat$SNP, c('finn-b-M13_SJOGREN'), proxies = 1, rsq = 0.8, align_alleles = 1, palindromes = 1, maf_threshold = 0.3)
+   dat <- harmonise_data(exposure_dat, outcome_dat, action = 3)
+   mr_results <- mr(dat)
