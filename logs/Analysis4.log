@@ -1,0 +1,26 @@
+Getting selected variables...
+
+   Extracting instruments from MR Base...
+
+   Performing clumping...
+
+   The following SNPs were removed due to LD with other SNPs:
+   rs146744330
+   rs377080180
+   rs142105922
+
+   Extracting outcome summary statistics from database...
+
+   The following SNPs were not found for at least one of the outcomes:
+   rs688652
+   rs76571753
+
+   Harmonising exposure and outcome summary statistics...
+
+   Performing MR analyses...
+
+   Performing sensitivity analyses...
+
+   Generating plots...
+
+   Analysis updated!

@@ -1,0 +1,30 @@
+Getting selected variables...
+
+Checking that data file is readable...
+
+Reading in data file...
+
+Using data from sjd_eas.txt
+
+Exposure name not provided. Using upload filename sjd_eas.txt instead.
+
+Performing clumping...
+
+The following SNPs were removed due to LD with other SNPs:
+rs4917129
+rs56036302
+
+Extracting outcome summary statistics from database...
+
+The following SNPs were not found for at least one of the outcomes:
+rs117026326
+
+Harmonising exposure and outcome summary statistics...
+
+Performing MR analyses...
+
+Performing sensitivity analyses...
+
+Generating plots...
+
+Analysis complete!

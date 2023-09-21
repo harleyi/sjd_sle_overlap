@@ -1,0 +1,92 @@
+Checking that data file is readable...
+
+    Reading in data file...
+
+    Using data from sjd_eur.txt
+
+    Exposure name not provided. Using upload filename sjd_eur.txt instead.
+
+    The following SNPs were excluded from the analysis due to insufficient information:
+    rs6S65516
+    rs23042S6
+
+    Performing clumping...
+
+    The following SNPs were removed due to LD with other SNPs:
+    rs112357081
+    rs3135394
+    rs15575857
+    rs3129716
+    rs16232857
+    rs9271588
+    rs3757387
+    rs4728142
+    rs17339836
+    rs17338998
+    rs10954213
+    rs10553577
+    rs13426947
+    rs583911
+    rs2736345
+    rs2729935
+    rs6998387
+    rs4936443
+    rs6579837
+    rs2293765
+    rs11900804
+    rs744600
+    rs10202868
+    rs2910194
+    rs2431698
+    rs2431099
+    rs4841466
+    rs11250098
+    rs11250099
+    rs3885690
+    rs2696609
+    rs7215239
+    rs6s65516
+    rs4969331
+    rs74908652
+    rs753859
+    rs34953890
+    rs23042s6
+    rs2069235
+    rs3747177
+    rs5757611
+    rs2949661
+    rs1723018
+    rs2056626
+    rs864537
+    rs526531
+    rs533733
+    rs4946728
+    rs58905141
+    rs5029937
+    rs5029924
+    rs2230926
+    rs7749323
+    rs3132941
+    rs9275576
+    rs13198474
+    rs10174238
+    rs41281072
+
+    Extracting outcome summary statistics from database...
+
+    The following SNPs were not found for at least one of the outcomes:
+    rs2004640
+    rs150724213
+
+    Harmonising exposure and outcome summary statistics...
+
+    The following SNPs were removed due to allele harmonising issues:
+    rs8071514
+
+    Performing MR analyses...
+
+    Performing sensitivity analyses...
+
+    Generating plots...
+
+    Analysis complete!
